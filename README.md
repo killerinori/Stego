@@ -1,4 +1,7 @@
 # Stego
+please check it in raw mode
+
+
 This project is based on the "https://github.com/aamixsh/VStegNET" 
 we have made some changes.
   1.correct some errors of code
