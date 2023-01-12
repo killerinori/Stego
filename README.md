@@ -93,4 +93,7 @@ if you want to test or train the project
         please only execute the code "m.test()"
       3.if you want to test the revealing_net of the module:
         please only execute the code "m.test_reveal()"
- we have a simple example for learn how to set the dataset and include a checkpoint file,you can get it on:""
+ we have a simple example for learn how to set the dataset and include a checkpoint file,
+ you can get it on:"link：https://pan.baidu.com/s/1G9yUbsuzeicFknzBqAXvNg?pwd=8888 
+ pwd=8888 
+
