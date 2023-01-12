@@ -18,6 +18,8 @@ if you want to test or train the project
     sklearn=0.20.0
   2.set the test and train dataset at right place by right way
     for example
+    (ps:the original input image size is set as "height = 240 width = 320 channels = 3"
+    if you want to input a video in different size,please change the codes about size)
     1.change the settings of directory in stego_net.py
       test_container_loc = 'ucf/test_rel/'#the directory of data for test the revealing_net
       test_loc = 'ucf/test/'#the directory of data for test the stego_net
